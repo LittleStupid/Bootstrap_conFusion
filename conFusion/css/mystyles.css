@@ -23,10 +23,6 @@
     color:floralwhite;
 }
 
-.nav-remember-me {
-  color:floralwhite;
-}
-
 address{
     font-size:80%;
     margin:0px;
@@ -75,4 +71,9 @@ body{
 
 .affix {
     top:100px;
+}
+
+.btn{
+    white-space:normal !important;
+    word-wrap:break-word;
 }
